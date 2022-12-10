@@ -1,0 +1,52 @@
+[
+    {
+        "userId": 1,
+        "first_name": "Perle",
+        "email": "porviss0@cbc.ca"
+    },
+    {
+        "userId": 2,
+        "first_name": "Marcella",
+        "email": "mtillyer1@huffingtonpost.com"
+    },
+    {
+        "userId": 3,
+        "first_name": "Errol",
+        "email": "esimek2@github.com"
+    },
+    {
+        "userId": 4,
+        "first_name": "Melisa",
+        "email": "mlates3@wikia.com"
+    },
+    {
+        "userId": 5,
+        "first_name": "Marena",
+        "email": "mdruitt4@jimdo.com"
+    },
+    {
+        "userId": 6,
+        "first_name": "Zandra",
+        "email": "zsnookes5@usnews.com"
+    },
+    {
+        "userId": 7,
+        "first_name": "Torey",
+        "email": "thuke6@dion.ne.jp"
+    },
+    {
+        "userId": 8,
+        "first_name": "Fredericka",
+        "email": "fvenn7@prweb.com"
+    },
+    {
+        "userId": 9,
+        "first_name": "Chrissy",
+        "email": "czannuto8@blogs.com"
+    },
+    {
+        "userId": 10,
+        "first_name": "Ethelind",
+        "email": "edunmuir9@uol.com.br"
+    }
+]
